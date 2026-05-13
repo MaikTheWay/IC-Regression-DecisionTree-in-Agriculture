@@ -1,0 +1,23 @@
+project:
+  name: "Comparação entre Regressão Linear e Árvore de Decisão na Agricultura de Precisão"
+  institution: "Unimetrocamp Wyden"
+  target_column: "hg/ha_yield"
+  test_size: 0.2
+  random_state: 42
+
+data:
+  path: "data/yield_df.csv"
+  categorical_features: ["Area", "Item"]
+  numerical_features: ["Year", "average_rain_fall_mm_per_year", "pesticides_tonnes", "avg_temp"]
+
+models:
+  linear_regression:
+    params: {}
+  decision_tree:
+    params:
+      max_depth: 10
+      random_state: 42
+
+output:
+  dir: "outputs"
+  log_dir: "logs"

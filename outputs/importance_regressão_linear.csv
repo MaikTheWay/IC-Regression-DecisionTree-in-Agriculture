@@ -1,0 +1,116 @@
+Feature,Coefficient
+cat__Area_United Kingdom,135795.63735501506
+cat__Area_Netherlands,124963.76878936903
+cat__Area_Belgium,122761.84679159065
+cat__Area_Denmark,119981.45388673847
+cat__Area_New Zealand,113246.44562186654
+cat__Item_Potatoes,105501.80672776615
+cat__Area_Ireland,87889.17467938503
+cat__Area_Switzerland,77410.758250722
+cat__Item_Cassava,76677.78128182895
+cat__Area_Sweden,75951.8241012399
+cat__Item_Soybeans,-75414.00152097517
+cat__Area_Central African Republic,-73433.87579460184
+cat__Area_Germany,72085.65686740805
+cat__Item_Wheat,-67582.18654820717
+cat__Item_Sorghum,-64137.60634085333
+cat__Area_Burkina Faso,-63501.98802137547
+cat__Area_France,59475.751107278506
+cat__Area_Mauritania,-58312.72266272426
+cat__Area_Haiti,-55270.71532352579
+cat__Area_Japan,54505.21462035358
+cat__Area_Austria,53282.88870024987
+cat__Item_Maize,-52431.10326254021
+cat__Area_Eritrea,-51483.34819895711
+cat__Item_Plantains and others,49188.636614882496
+cat__Area_Burundi,-47920.57506833928
+cat__Area_Uganda,-47916.77184346078
+cat__Area_Egypt,47787.822895842255
+cat__Area_Guinea,-47082.84230178559
+cat__Area_Angola,-46154.64122476301
+cat__Area_Australia,44620.60719450466
+"cat__Item_Rice, paddy",-44331.08010940881
+cat__Area_Bahamas,-44307.89859893348
+cat__Area_Rwanda,-42710.95690346253
+cat__Area_Ecuador,-41504.1904150023
+cat__Area_Mozambique,-41306.68361162229
+cat__Area_Norway,41282.21964710877
+cat__Item_Yams,39563.79208917383
+cat__Area_Madagascar,-39066.9708667379
+cat__Area_Zimbabwe,-36228.50895736293
+cat__Area_Cameroon,-36177.09551815291
+cat__Area_Italy,35622.38731647709
+cat__Area_Zambia,-33562.070043794716
+cat__Area_Dominican Republic,-33230.592460806125
+cat__Item_Sweet potatoes,32963.96106855565
+cat__Area_Malawi,-32359.571718131134
+cat__Area_Bahrain,-31750.165325888567
+cat__Area_Spain,31553.594795309586
+cat__Area_Tunisia,-29542.598348795425
+cat__Area_Ghana,-29123.26143404053
+cat__Area_Suriname,28204.910441485317
+cat__Area_Kenya,-27887.967752624543
+cat__Area_Estonia,-26762.97584439856
+cat__Area_Montenegro,-24704.52871892849
+cat__Area_Greece,24508.214794098163
+cat__Area_Finland,24163.54696854667
+cat__Area_Libya,-24116.07151156201
+cat__Area_Sri Lanka,-23633.84546461627
+cat__Area_Honduras,-22572.333900722722
+cat__Area_Latvia,-22570.93859743079
+cat__Area_Turkey,22456.922649018685
+cat__Area_Guyana,-21871.90172722861
+cat__Area_Lithuania,-20856.542019662316
+cat__Area_Nepal,-20853.770751975637
+cat__Area_Slovenia,20690.271884153473
+cat__Area_Azerbaijan,-20689.720482048455
+cat__Area_Lesotho,-20357.39904986639
+cat__Area_Kazakhstan,-20278.231477030015
+cat__Area_Botswana,-19880.255629632058
+cat__Area_Iraq,-19469.33184842962
+cat__Area_Papua New Guinea,-19065.06989415741
+cat__Area_Senegal,-18296.3884368354
+cat__Area_Namibia,-18242.941907638455
+cat__Area_Sudan,-16324.298950845641
+cat__Area_Pakistan,-15030.048542351866
+cat__Area_Ukraine,-14051.363217587055
+cat__Area_Armenia,-13932.2479087611
+cat__Area_Romania,-13475.277645629178
+cat__Area_Niger,-12289.770994350542
+cat__Area_Nicaragua,-12072.214466535033
+cat__Area_Mauritius,11196.485691303007
+cat__Area_Mexico,10836.830646943063
+cat__Area_Mali,-10503.865851118166
+cat__Area_Argentina,10485.52583093192
+cat__Area_Chile,10448.797142476951
+cat__Area_Jamaica,10322.7446493889
+cat__Area_Bulgaria,-9968.706817774155
+cat__Area_Saudi Arabia,9257.489798189625
+cat__Area_Belarus,-9084.750489161257
+cat__Area_Poland,8404.371075778055
+cat__Area_El Salvador,8175.383458812556
+cat__Area_Malaysia,8083.803139131316
+cat__Area_Hungary,8081.50251800328
+num__Year,7983.366352201192
+cat__Area_Brazil,-7143.569686670518
+cat__Area_Tajikistan,-6891.036484429384
+cat__Area_Algeria,-6772.393602410684
+cat__Area_Lebanon,6677.776013024754
+cat__Area_Bangladesh,-6017.264122444818
+cat__Area_Thailand,-5248.966109247514
+cat__Area_India,5135.519244658956
+cat__Area_Guatemala,4897.6551725096015
+cat__Area_Canada,-4721.866571685897
+num__average_rain_fall_mm_per_year,-4383.128653226838
+cat__Area_Colombia,-4111.482199796503
+cat__Area_Portugal,-4061.09977600917
+cat__Area_Uruguay,-2576.2112755178546
+cat__Area_Albania,-2284.958328486711
+cat__Area_Peru,-2120.0300447139116
+cat__Area_South Africa,-2033.6394335049797
+cat__Area_Qatar,1998.0818562166758
+cat__Area_Croatia,1930.133973257953
+num__pesticides_tonnes,1249.7640564361143
+cat__Area_Morocco,711.1473340213477
+num__avg_temp,135.66490358490816
+cat__Area_Indonesia,-110.84472634885434

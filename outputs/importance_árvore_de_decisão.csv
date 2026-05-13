@@ -1,0 +1,116 @@
+Feature,Importance
+cat__Item_Potatoes,0.3917119961957177
+cat__Item_Cassava,0.10902547596167292
+cat__Item_Sweet potatoes,0.09150266324478136
+cat__Area_India,0.06187529037602739
+num__pesticides_tonnes,0.061561565099455026
+num__average_rain_fall_mm_per_year,0.03987516985521247
+cat__Item_Yams,0.029020350970198047
+num__Year,0.025666071802499878
+num__avg_temp,0.0251548506113874
+cat__Area_Japan,0.022020047696040983
+cat__Area_United Kingdom,0.02123351877311843
+cat__Item_Plantains and others,0.016436294387061262
+cat__Area_Australia,0.013727289163608117
+cat__Area_Canada,0.011042163105840224
+cat__Area_New Zealand,0.006675448760388964
+cat__Area_Netherlands,0.006615466715466562
+cat__Area_South Africa,0.00600268311030146
+cat__Area_Guatemala,0.0057576841625376065
+cat__Area_Denmark,0.004712830662581904
+"cat__Item_Rice, paddy",0.004385985802514464
+cat__Area_Pakistan,0.004307522964091816
+cat__Area_Belgium,0.004209213635122943
+cat__Area_Ecuador,0.004169128293667694
+cat__Item_Maize,0.004122769516402514
+cat__Area_Germany,0.003345722700252925
+cat__Area_Suriname,0.0030744925759133633
+cat__Area_Switzerland,0.002781624964633161
+cat__Area_Mauritania,0.001955385824085209
+cat__Area_El Salvador,0.0017032352141346842
+cat__Item_Soybeans,0.0013259996421333675
+cat__Area_Mexico,0.0012097278554950401
+cat__Area_Zimbabwe,0.0010365116838709325
+cat__Area_Cameroon,0.0010108807996884839
+cat__Area_Spain,0.0010016455199548184
+cat__Area_Sweden,0.000974203874620247
+cat__Area_Lesotho,0.0008433608540335648
+cat__Area_Eritrea,0.0007934955738093531
+cat__Area_Guinea,0.000764444282706323
+cat__Area_Mali,0.0007359139823278777
+cat__Area_Honduras,0.000645541532034098
+cat__Area_Burundi,0.0006218615931879167
+cat__Area_Guyana,0.0006124961098360926
+cat__Area_Indonesia,0.0005949460936234284
+cat__Area_Haiti,0.0005737552280110093
+cat__Area_Mauritius,0.0005505957094561511
+cat__Area_Ghana,0.0005452155883375272
+cat__Area_Sudan,0.00044474993385862507
+cat__Area_Libya,0.0004405713313715819
+cat__Area_Finland,0.0003775979949344658
+cat__Area_Papua New Guinea,0.0002699930205789172
+cat__Area_Jamaica,0.00022484697352755947
+cat__Area_Argentina,0.00014300621114062876
+cat__Area_Mozambique,0.00012260604584278645
+cat__Area_Niger,0.0001010033507378802
+cat__Area_Ukraine,9.47943845004702e-05
+cat__Area_Malawi,7.918551367643623e-05
+cat__Area_Brazil,7.882703280999789e-05
+cat__Area_Uganda,3.9074892452711015e-05
+cat__Area_Italy,3.808599047870223e-05
+cat__Area_Central African Republic,3.311925624651368e-05
+cat__Area_Iraq,0.0
+cat__Area_Hungary,0.0
+cat__Area_Greece,0.0
+cat__Area_France,0.0
+cat__Area_Croatia,0.0
+cat__Area_Egypt,0.0
+cat__Area_Estonia,0.0
+cat__Area_Austria,0.0
+cat__Area_Armenia,0.0
+cat__Area_Azerbaijan,0.0
+cat__Area_Bahamas,0.0
+cat__Area_Bangladesh,0.0
+cat__Area_Algeria,0.0
+cat__Area_Angola,0.0
+cat__Area_Albania,0.0
+cat__Area_Colombia,0.0
+cat__Area_Chile,0.0
+cat__Area_Burkina Faso,0.0
+cat__Area_Bulgaria,0.0
+cat__Area_Dominican Republic,0.0
+cat__Area_Bahrain,0.0
+cat__Area_Belarus,0.0
+cat__Area_Botswana,0.0
+cat__Area_Ireland,0.0
+cat__Area_Qatar,0.0
+cat__Area_Poland,0.0
+cat__Area_Peru,0.0
+cat__Area_Norway,0.0
+cat__Area_Morocco,0.0
+cat__Area_Nepal,0.0
+cat__Area_Nicaragua,0.0
+cat__Area_Montenegro,0.0
+cat__Area_Namibia,0.0
+cat__Area_Kazakhstan,0.0
+cat__Area_Kenya,0.0
+cat__Area_Latvia,0.0
+cat__Area_Malaysia,0.0
+cat__Area_Lithuania,0.0
+cat__Area_Madagascar,0.0
+cat__Area_Lebanon,0.0
+cat__Area_Portugal,0.0
+cat__Area_Turkey,0.0
+cat__Area_Tunisia,0.0
+cat__Area_Senegal,0.0
+cat__Area_Saudi Arabia,0.0
+cat__Area_Slovenia,0.0
+cat__Area_Sri Lanka,0.0
+cat__Area_Rwanda,0.0
+cat__Area_Romania,0.0
+cat__Area_Thailand,0.0
+cat__Area_Tajikistan,0.0
+cat__Area_Zambia,0.0
+cat__Area_Uruguay,0.0
+cat__Item_Sorghum,0.0
+cat__Item_Wheat,0.0
