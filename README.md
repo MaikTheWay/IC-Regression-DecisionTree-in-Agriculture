@@ -32,6 +32,6 @@ Este projeto faz parte de uma Iniciação Científica (IC) vinculada à Unimetro
    ```
 
 ---
-**Orientador:** Eder Carlos Fernandes
+**Orientador:** Prof. Me. Eder Carlos Fernandes
 **Pesquisador:** Marcos Alcino Ribeiro Cussioli
 **Instituição:** Unimetrocamp Wyden

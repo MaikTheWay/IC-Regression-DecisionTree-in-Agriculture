@@ -1,25 +1,44 @@
-2026-05-13 14:11:22,340 - __main__ - INFO - Iniciando Experimento!
-2026-05-13 14:11:22,367 - src.data_loader - INFO - Dados carregados com sucesso. Shape: (28242, 7)
-2026-05-13 14:11:22,367 - src.data_loader - INFO - Validação de colunas concluída.
-2026-05-13 14:11:22,373 - src.preprocessing - INFO - Dados divididos: Treino=(22593, 6), Teste=(5649, 6)
-2026-05-13 14:11:22,373 - src.preprocessing - INFO - Pipeline de pré-processamento criada.
-2026-05-13 14:11:22,373 - src.models - INFO - Modelo de Regressão Linear criado.
-2026-05-13 14:11:22,373 - src.models - INFO - Modelo de Árvore de Decisão criado.
-2026-05-13 14:11:22,373 - __main__ - INFO - Processando modelo: Regressão Linear
-2026-05-13 14:11:22,449 - src.evaluator - INFO - Métricas para Regressão Linear: {'Model': 'Regressão Linear', 'R2': 0.7551418730311974, 'MAE': 29582.513074169805, 'RMSE': 42144.04504117014}
-2026-05-13 14:11:22,449 - __main__ - INFO - Iniciando Validação Cruzada para Regressão Linear...
-2026-05-13 14:11:22,758 - src.evaluator - INFO - Validação Cruzada (5 folds) - Média: 0.7534, Std: 0.0113
-2026-05-13 14:11:22,761 - src.evaluator - INFO - Importância das variáveis para Regressão Linear salva em outputs/importance_regressão_linear.csv
-2026-05-13 14:11:24,861 - src.evaluator - INFO - Gráfico de resíduos para Regressão Linear salvo em outputs/residuals_regressão_linear.png
-2026-05-13 14:11:24,952 - src.evaluator - INFO - Gráfico Previsão vs Real para Regressão Linear salvo em outputs/prediction_vs_actual_regressão_linear.png
-2026-05-13 14:11:25,059 - src.evaluator - INFO - Gráfico de distribuição de erros para Regressão Linear salvo em outputs/error_distribution_regressão_linear.png
-2026-05-13 14:11:25,059 - __main__ - INFO - Processando modelo: Árvore de Decisão
-2026-05-13 14:11:25,201 - src.evaluator - INFO - Métricas para Árvore de Decisão: {'Model': 'Árvore de Decisão', 'R2': 0.9281217528276582, 'MAE': 12999.385593853114, 'RMSE': 22833.77381925605}
-2026-05-13 14:11:25,201 - __main__ - INFO - Iniciando Validação Cruzada para Árvore de Decisão...
-2026-05-13 14:11:25,767 - src.evaluator - INFO - Validação Cruzada (5 folds) - Média: 0.9283, Std: 0.0057
-2026-05-13 14:11:25,770 - src.evaluator - INFO - Importância das variáveis para Árvore de Decisão salva em outputs/importance_árvore_de_decisão.csv
-2026-05-13 14:11:25,854 - src.evaluator - INFO - Gráfico de resíduos para Árvore de Decisão salvo em outputs/residuals_árvore_de_decisão.png
-2026-05-13 14:11:25,942 - src.evaluator - INFO - Gráfico Previsão vs Real para Árvore de Decisão salvo em outputs/prediction_vs_actual_árvore_de_decisão.png
-2026-05-13 14:11:26,045 - src.evaluator - INFO - Gráfico de distribuição de erros para Árvore de Decisão salvo em outputs/error_distribution_árvore_de_decisão.png
-2026-05-13 14:11:26,366 - src.evaluator - INFO - Gráficos comparativos de modelos salvos em outputs
-2026-05-13 14:11:26,371 - __main__ - INFO - Experimento concluído :)
+2026-05-27 16:26:26,464 - __main__ - INFO - Iniciando!
+2026-05-27 16:26:26,492 - src.data_loader - INFO - Dados carregados com sucesso. Shape: (28242, 7)
+2026-05-27 16:26:26,492 - src.data_loader - INFO - Validação de colunas concluída.
+2026-05-27 16:26:26,498 - src.preprocessing - INFO - Dados divididos: Treino=(22593, 6), Teste=(5649, 6)
+2026-05-27 16:26:26,498 - src.preprocessing - INFO - Pipeline de pré-processamento criada.
+2026-05-27 16:26:26,499 - src.models - INFO - Modelo de Regressão Linear criado.
+2026-05-27 16:26:26,499 - src.models - INFO - Modelo de Árvore de Decisão criado.
+2026-05-27 16:26:26,499 - __main__ - INFO - Processando modelo: Regressão Linear
+2026-05-27 16:26:26,576 - src.evaluator - INFO - Métricas para Regressão Linear: {'Model': 'Regressão Linear', 'R2': 0.7551418730311974, 'MAE': 29582.513074169805, 'RMSE': 42144.04504117014}
+2026-05-27 16:26:26,576 - __main__ - INFO - Iniciando Validação Cruzada para Regressão Linear...
+2026-05-27 16:26:26,882 - src.evaluator - INFO - Validação Cruzada (5 folds) — Média: 0.7534, Std: 0.0113
+2026-05-27 16:26:26,884 - src.evaluator - INFO - Importância das variáveis para Regressão Linear salva em outputs/importance_regressão_linear.csv
+2026-05-27 16:26:27,069 - src.evaluator - INFO - Gráfico de resíduos para Regressão Linear salvo em outputs/residuals_regressão_linear.png
+2026-05-27 16:26:27,248 - src.evaluator - INFO - Gráfico Previsão vs. Real para Regressão Linear salvo em outputs/prediction_vs_actual_regressão_linear.png
+2026-05-27 16:26:27,427 - src.evaluator - INFO - Gráfico de distribuição de erros para Regressão Linear salvo em outputs/error_distribution_regressão_linear.png
+2026-05-27 16:26:27,427 - __main__ - INFO - Processando modelo: Árvore de Decisão
+2026-05-27 16:26:27,565 - src.evaluator - INFO - Métricas para Árvore de Decisão: {'Model': 'Árvore de Decisão', 'R2': 0.9281217528276582, 'MAE': 12999.385593853114, 'RMSE': 22833.77381925605}
+2026-05-27 16:26:27,565 - __main__ - INFO - Iniciando Validação Cruzada para Árvore de Decisão...
+2026-05-27 16:26:28,172 - src.evaluator - INFO - Validação Cruzada (5 folds) — Média: 0.9283, Std: 0.0057
+2026-05-27 16:26:28,175 - src.evaluator - INFO - Importância das variáveis para Árvore de Decisão salva em outputs/importance_árvore_de_decisão.csv
+2026-05-27 16:26:28,337 - src.evaluator - INFO - Gráfico de resíduos para Árvore de Decisão salvo em outputs/residuals_árvore_de_decisão.png
+2026-05-27 16:26:28,492 - src.evaluator - INFO - Gráfico Previsão vs. Real para Árvore de Decisão salvo em outputs/prediction_vs_actual_árvore_de_decisão.png
+2026-05-27 16:26:28,661 - src.evaluator - INFO - Gráfico de distribuição de erros para Árvore de Decisão salvo em outputs/error_distribution_árvore_de_decisão.png
+2026-05-27 16:26:28,661 - __main__ - INFO - Gerando diagnóstico de premissas da Regressão Linear...
+2026-05-27 16:26:28,919 - src.evaluator - INFO - Diagnóstico de resíduos (RL) salvo em outputs/lr_residuals_vs_predicted.png
+2026-05-27 16:26:29,107 - src.evaluator - INFO - Q-Q Plot dos resíduos (RL) salvo em outputs/lr_qq_plot.png
+2026-05-27 16:26:29,107 - __main__ - INFO - Executando busca empírica de profundidade da Árvore de Decisão...
+2026-05-27 16:26:29,107 - src.preprocessing - INFO - Pipeline de pré-processamento criada.
+2026-05-27 16:26:29,424 - src.evaluator - INFO - Depth=3: R²_train=0.6733, R²_cv=0.6689±0.0095, diff=0.0044
+2026-05-27 16:26:29,803 - src.evaluator - INFO - Depth=5: R²_train=0.7968, R²_cv=0.7924±0.0079, diff=0.0043
+2026-05-27 16:26:30,532 - src.evaluator - INFO - Depth=10: R²_train=0.9423, R²_cv=0.9283±0.0057, diff=0.0140
+2026-05-27 16:26:31,893 - src.evaluator - INFO - Depth=15: R²_train=0.9844, R²_cv=0.9649±0.0024, diff=0.0195
+2026-05-27 16:26:33,915 - src.evaluator - INFO - Depth=20: R²_train=0.9966, R²_cv=0.9741±0.0029, diff=0.0225
+2026-05-27 16:26:33,916 - src.evaluator - INFO - Resultados da busca de profundidade salvos em outputs/dt_depth_sweep.csv
+2026-05-27 16:26:34,165 - src.evaluator - INFO - Gráfico de busca de profundidade salvo em outputs/dt_depth_sweep.png
+2026-05-27 16:26:34,168 - __main__ - INFO - Resultados da busca de profundidade:
+ max_depth  R2_train  R2_cv_mean  R2_cv_std  diff_overfit
+         3    0.6733      0.6689     0.0095        0.0044
+         5    0.7968      0.7924     0.0079        0.0043
+        10    0.9423      0.9283     0.0057        0.0140
+        15    0.9844      0.9649     0.0024        0.0195
+        20    0.9966      0.9741     0.0029        0.0225
+2026-05-27 16:26:34,464 - src.evaluator - INFO - Gráficos comparativos de modelos salvos em outputs
+2026-05-27 16:26:34,467 - __main__ - INFO - Concluído com sucesso.

@@ -21,3 +21,6 @@ models:
 output:
   dir: "outputs"
   log_dir: "logs"
+
+analysis:
+  depth_sweep: [3, 5, 10, 15, 20]
